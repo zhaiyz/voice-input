@@ -32,7 +32,7 @@ macOS 语音输入工具 - 按住 Fn 键说话，自动转录并注入文字
 
 ```bash
 # 克隆仓库
-git clone https://github.com/zhaiyazhou/voice-input.git
+git clone https://github.com/zhaiyz/voice-input.git
 cd voice-input
 
 # 构建并安装
