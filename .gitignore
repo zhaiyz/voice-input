@@ -1,0 +1,39 @@
+# Build artifacts
+.build/
+DerivedData/
+*.xcodeproj/
+*.xcworkspace/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# App bundle
+*.app
+*.dSYM
+
+# Secrets
+*.env
+credentials.json
+api_keys.json
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
